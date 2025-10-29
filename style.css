@@ -1,0 +1,12 @@
+div{
+    background-color: aquamarine;
+}
+div:hover{
+    background-color: burlywood;
+    outline: none;
+    text-transform: uppercase;
+}
+a:{
+    color: ;
+
+}
