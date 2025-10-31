@@ -6,7 +6,8 @@ div:hover{
     outline: none;
     text-transform: uppercase;
 }
-a:{
-    color: ;
-
+div{
+    text-transform: capitalize;
+    background-color: aquamarine;
+    color: blueviolet;
 }
